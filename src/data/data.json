@@ -1,0 +1,30 @@
+[
+    {
+        "fishName": "Pacific Halibut",
+        "fishPrice": "1724",
+        "isInStock": true,
+        "fishDescription": "Everyones favorite white fish. We will cut it to the size you need and ship it.",
+        "removeFish": false
+    },
+    {
+        "fishName": "Lobster",
+        "fishPrice": "3200",
+        "isInStock": true,
+        "fishDescription": "These tender, mouth-watering beauties are a fantastic hit at any dinner party.",
+        "removeFish": false
+    },
+    {
+        "fishName": "Sea Scallops",
+        "fishPrice": "1684",
+        "isInStock": false,
+        "fishDescription": "These tender, mouth-watering beauties are a fantastic hit at any dinner party.",
+        "removeFish": false
+    },
+    {
+        "fishName": "Mahi Mahi",
+        "fishPrice": "1129",
+        "isInStock": true,
+        "fishDescription": "Lean flesh with a mild, sweet flavor profile, moderately firm texture and large, moist flakes.",
+        "removeFish": false
+    }
+]
