@@ -1,7 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import menuData from './data/data.json';
 
 function App() {
+
+  console.log(menuData)
   return (
     <div className="App">
       <header className="App-header">
@@ -18,6 +21,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <main>
+      
+      </main>
     </div>
   );
 }
